@@ -48,7 +48,7 @@ Developed a classification model to determine spam or non spam e-mail.
 
 ![total](https://user-images.githubusercontent.com/59698649/209147238-ea46fc31-1e56-4751-b88a-0e4713abe645.png)
 
-## Confusion Matrix
+## Confusion Matrix Graphical Representation
 
 ![confusion](https://user-images.githubusercontent.com/59698649/209150514-99e55006-5c44-4ea0-ae56-c82102b17eb7.png)
 
