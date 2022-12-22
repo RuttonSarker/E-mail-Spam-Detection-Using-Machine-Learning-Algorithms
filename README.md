@@ -1,1 +1,2 @@
-# E-mail Spam Filtering Using Machine Learning Algorithms.
+# E-mail Spam Detection Using Machine Learning Algorithms.
+
