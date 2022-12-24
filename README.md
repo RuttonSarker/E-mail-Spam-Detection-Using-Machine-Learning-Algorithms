@@ -12,7 +12,7 @@ Developed a classification model to determine spam or non spam e-mail.
 * Scikit-learn
 
 ## ML Algorithms:
-* Naive Bayes (Gaussian, Bernouli, Multinomial)
+* Naive Bayes (Gaussian, Bernoulli, Multinomial)
 * SVM
 * Decision Tree
 * Random Forest
