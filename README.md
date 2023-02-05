@@ -1,6 +1,6 @@
 # E-mail Spam Detection Using Machine Learning Algorithms.
 
-Developed a classification model to determine spam or non spam e-mail.
+Developed a binary classification model to determine spam or non-spam email, analyzed the dataset, and visualized the top high-frequency spam and non-spam words with the WordCloud Python library. Measured the performance of classification algorithms with evaluation metrics such as accuracy, precision, confusion matrix, and f1-score. Also, performance was improved by using a voting classifier.
 
 ## Library Used:
 * NumPy                   
